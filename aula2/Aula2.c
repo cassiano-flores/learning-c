@@ -3,8 +3,8 @@
 #include <time.h>
 
 /* 
-    Fazer um programa para jogar par ou impar com o PC
-        -->  Ganha o jogo quem vencer 3 partidas consecutivas (empate nao conta)
+    Fazer um programa para jogar par ou impar com o PC   (com if-else)
+        -->  Ganha o jogo quem vencer 3 partidas consecutivas (empate nao conta, mas pode dar empate)
 */
 
 int main() {
