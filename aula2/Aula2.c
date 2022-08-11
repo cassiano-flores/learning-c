@@ -15,7 +15,7 @@ int main() {
     int numberPC;
     char winners[3];
 
-    srand(time(NULL));  //randomizar
+    srand(time(NULL));  //randomizar, somente o rand() iria sempre repetir os numeros aleatorios
 
         for (int i = 0; i < 3; i++){  //até 3 vitorias consecutivas
             
